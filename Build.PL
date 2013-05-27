@@ -21,7 +21,7 @@ my %module_build_args = (
     "Pavel A. Karoukin <pavel\@karoukin.us>"
   ],
   "dist_name" => "Mojolicious-Plugin-Sugar",
-  "dist_version" => "0.001",
+  "dist_version" => "0.002",
   "license" => "perl",
   "module_name" => "Mojolicious::Plugin::Sugar",
   "recommends" => {},

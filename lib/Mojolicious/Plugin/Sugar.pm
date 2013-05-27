@@ -6,7 +6,7 @@ use Mojo::Base 'Mojolicious::Plugin';
 use Scalar::Util qw(reftype);
 use Data::Types qw(is_string);
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 # ABSTRACT: Some sweet stuff for Mojolicious
 
@@ -48,8 +48,8 @@ sub register {
 
 1;
 
-__END__
 
+__END__
 =pod
 
 =head1 NAME
@@ -58,7 +58,7 @@ Mojolicious::Plugin::Sugar - Some sweet stuff for Mojolicious
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
@@ -144,3 +144,4 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
+

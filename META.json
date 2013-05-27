@@ -4,7 +4,7 @@
       "Pavel A. Karoukin <pavel@karoukin.us>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 4.300016, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -50,6 +50,6 @@
          "web" : "https://github.com/hippich/perl-mojolicious-plugin-sugar"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 
